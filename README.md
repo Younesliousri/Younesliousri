@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">Hi there! I'm Younes, a self-taught data analyst from Morocco. With a background in Computer networking, I transitioned to data in 2021 and have been learning SQL, Python, and Power BI ever since.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*lfsR26JXj4o_QMWI.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*lfsR26JXj4o_QMWI.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younesliousri&label=Profile%20views&color=0e75b6&style=flat" alt="younesliousri" /> </p>
 
 - 📚 Projects & Guides 📚 : [In my portfolio, you can find my projects and guides on data analytics,](https://github.com/Younesliousri/Portfolio)
